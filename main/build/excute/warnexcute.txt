@@ -1,0 +1,22 @@
+missing module named resource - imported by posix, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named posix - imported by os, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named _posixsubprocess - imported by subprocess, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named org - imported by pickle, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named readline - imported by cmd, code, pdb, D:\ct\python\pythonImportDemo\main\excute.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named _winreg - imported by platform, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named 'java.lang' - imported by platform, D:\ct\python\pythonImportDemo\main\excute.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named termios - imported by tty, D:\ct\python\pythonImportDemo\main\excute.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\ct\python\pythonImportDemo\main\excute.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\ct\python\pythonImportDemo\main\excute.py
+missing module named 'org.python' - imported by copy, D:\ct\python\pythonImportDemo\main\excute.py, xml.sax
+missing module named elementtree - imported by xlrd.xlsx
+missing module named lxml - imported by xlrd.xlsx
+missing module named cElementTree - imported by xlrd.xlsx
+missing module named cStringIO - imported by xlrd.timemachine
+missing module named copy_reg - imported by cStringIO
